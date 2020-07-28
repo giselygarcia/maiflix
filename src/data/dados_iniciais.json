@@ -1,0 +1,234 @@
+{
+  "categorias": [
+    {
+      "titulo": "BOB ZOOM",
+      "link": "https://www.youtube.com/watch?v=VVDhxLG5RoU",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=9Od--4BKheM"
+      },
+      "videos": [
+        {
+          "titulo": "Chu chu ua chu chu ua",
+          "url": "https://www.youtube.com/watch?v=UJoBYLqALH0"
+        },
+        {
+          "titulo": "Roda do ônibus",
+          "url": "https://www.youtube.com/watch?v=lQOAZU4ff3o"
+        },
+        
+        {
+          "titulo": "Sítio do seu Lobato",
+          "url": "https://www.youtube.com/watch?v=kTgtJISblFg"
+        },
+        {
+          "titulo": "Indiozinhos",
+          "url": "https://www.youtube.com/watch?v=vOQvZKGo8m0"
+        },
+        {
+          "titulo": "Borboletinha",
+          "url": "https://www.youtube.com/watch?v=eBqUgJdkXoQ"
+        },
+        {
+          "titulo": "Meu lanchinho",
+          "url": "https://www.youtube.com/watch?v=LrTw6ygAD4s"
+        },
+        {
+          "titulo": "Pintinho",
+          "url": "https://www.youtube.com/watch?v=NGYh8Lv56oc"
+        },  
+        {
+          "titulo": "Parabéns",
+          "url": "https://www.youtube.com/watch?v=834OkDMiz2M"
+        }
+      ]
+    },
+    {
+      "titulo": "Heróis",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=7e24cdx5jXU"
+      },
+      "videos": [
+        {
+          "titulo": "Cabeça, ombro, joelho e pé",
+          "url": "https://www.youtube.com/watch?v=7e24cdx5jXU"
+        },
+        {
+          "titulo": "Galinhazinha",
+          "url": "https://www.youtube.com/watch?v=VVDhxLG5RoU"
+        },
+        {
+          "titulo": "O planeta é o nosso lar",
+          "url": "https://www.youtube.com/watch?v=fBSCVbd58kY"
+        },
+        {
+          "titulo": "Tudo em seu lugar",
+          "url": "https://www.youtube.com/watch?v=f5Z7Un8UJRo"
+        }, 
+        {
+          "titulo": "Um herói do coração",
+          "url": "https://www.youtube.com/watch?v=_7CK94ZD8kA"
+        },
+        {
+          "titulo": "Nossa Amizade",
+          "url": "https://www.youtube.com/watch?v=K2Vqjs5OPs8"
+        },
+        {
+          "titulo": "Compartilhar é a chave",
+          "url": "https://www.youtube.com/watch?v=0Qh1zpvaBek"
+        }
+      ]
+    },
+    {
+      "titulo": "Galinha pintadinha",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=MuBgIfBR1kA"
+      },
+      "videos": [
+        {
+          "titulo": "Dona Aranha",
+          "url": "https://www.youtube.com/watch?v=MuBgIfBR1kA"
+        },
+        {
+          "titulo": "Sambalelê",
+          "url": "https://www.youtube.com/watch?v=zKOubVELVNw"
+        },
+        {
+          "titulo": "Ciranda Cirandinha",
+          "url": "https://www.youtube.com/watch?v=qzEcHMqqcuE"
+        },
+        {
+          "titulo": "A conoa Virou",
+          "url": "https://www.youtube.com/watch?v=3cDsvBPn-mQ"
+        },
+        {
+          "titulo": "Dança do patinho",
+          "url": "https://www.youtube.com/watch?v=87TA_dww6nY"
+        },
+        {
+          "titulo": "Sambalelê",
+          "url": "https://www.youtube.com/watch?v=zKOubVELVNw"
+        },
+        {
+          "titulo": "Ciranda Cirandinha",
+          "url": "https://www.youtube.com/watch?v=qzEcHMqqcuE"
+        }
+      ]
+    },
+    {
+      "titulo": "Mundo Bita",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Viajar pelo Safar",
+          "url": "https://www.youtube.com/watch?v=9WFYuIu7BKA"
+        },
+        {
+          "titulo": "Fundo do mar",
+          "url": "https://www.youtube.com/watch?v=iY91JoMWQoM"
+        },
+        {
+          "titulo": "Parabéns do Bitta",
+          "url": "https://www.youtube.com/watch?v=cGs1QA2bLdw"
+        },
+        {
+          "titulo": "Fazendinha",
+          "url": "https://www.youtube.com/watch?v=cjONzZPJONc"
+        },
+        {
+          "titulo": "Bom banho",
+          "url": "https://www.youtube.com/watch?v=31iBxkTTAfc"
+        },
+        {
+          "titulo": "Magia das cores",
+          "url": "https://www.youtube.com/watch?v=iY91JoMWQoM"
+        },
+        {
+          "titulo": "Parabéns do Bitta",
+          "url": "https://www.youtube.com/watch?v=cGs1QA2bLdw"
+        }
+      ]
+    },
+    {
+      "titulo": "Outros",
+      "cor": "pink",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Mariana",
+          "url": "https://www.youtube.com/watch?v=orxxp-3gBiE"
+        },
+        {
+          "titulo": "Cantando com os amigos",
+          "url": "https://www.youtube.com/watch?v=7-muQoXwf3Q"
+        },
+        {
+          "titulo": "Chu chu ua chu chu ua",
+          "url": "https://www.youtube.com/watch?v=_fM_RlEIw20"
+        },
+        {
+          "titulo": "A canoa virou",
+          "url": "https://www.youtube.com/watch?v=_vmxj-adiPo"
+        },
+        {
+          "titulo": "Joãozinho, Joãzinho, Sim, Papai ",
+          "url": "https://www.youtube.com/watch?v=LOBwSCCN71k"
+        },
+        {
+          "titulo": "Tubrão bebê",
+          "url": "https://www.youtube.com/watch?v=b5MGrLavoUs"
+        },
+        {
+          "titulo": "Fui a Espanha",
+          "url": "https://www.youtube.com/watch?v=hZz6Bp2RC5s"
+        }
+      ]
+    },
+    {
+      "titulo": "Para cantar",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Elefantes",
+          "url": "https://www.youtube.com/watch?v=30ni4h5Rpj0"
+        },
+        {
+          "titulo": "Bola de meia, bola de gude",
+          "url": "https://www.youtube.com/watch?v=Tvq1tHHSi5I"
+        },
+        {
+          "titulo": "Coração feliz",
+          "url": "https://www.youtube.com/watch?v=WgANOoslfWM"
+        },
+        {
+          "titulo": "Baby shark",
+          "url": "https://www.youtube.com/watch?v=XqZsoesa55w"
+        },
+        {
+          "titulo": "Cinco Macaquinhos Pulando na Cama",
+          "url": "https://www.youtube.com/watch?v=UcwiUPtZw3A"
+        },
+        {
+          "titulo": "Chu chu ua chu chu ua",
+          "url": "https://www.youtube.com/watch?v=_fM_RlEIw20"
+        },
+        {
+          "titulo": "UPA CAVALINHO",
+          "url": "https://www.youtube.com/watch?v=Fn9adh4HWUU"
+        }
+      ]
+    }
+  ]
+}
