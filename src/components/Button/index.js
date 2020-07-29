@@ -1,6 +1,6 @@
 import styled from "styled-components";
-
-const Button = styled.button` 
+import { Link } from 'react-router-dom';
+const Button = styled(Link)` 
     color: var(--white);
     border: 1px solid var(--white);
     box-sizing: border-box;
@@ -22,4 +22,4 @@ const Button = styled.button`
    
 `;
 
-export default Button
+export default Button;
