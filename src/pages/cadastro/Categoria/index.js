@@ -5,18 +5,24 @@ import { Link } from 'react-router-dom';
 
 function CadastroCategoria() {
   const [categorias, setCategorias] = useState(['teste']);
-  const [nomeDaCategoria, setNomeDaCategoria] = useState('Desenhos');
+  const valoresIniciais = {
+    nome:'',
+    descricao:'',
+    cor: '#000',
+  }
+  const [nomeDaCategoria, setNomeDaCategoria] = useState('valoresIniciais');
     return (
     <PageDefault>
       <h1>Cadastro de Categoria: {nomeDaCategoria}</h1>
 
-      <form onSubmit={function handleSubmit(infosDoEvento){
+      <form style={{background: nomeDaCategoria}}onSubmit={function handleSubmit(infosDoEvento){
         infosDoEvento.preventDefault();
         setCategorias([
           ...categorias,
           nomeDaCategoria
         ]);
       }}>
+      <div>
         <label>
           Nome da Categoria:
           <input
@@ -27,6 +33,34 @@ function CadastroCategoria() {
             }}
           />
         </label>
+      </div>
+
+      <div>
+        <label>
+          Descrição:
+          <textarea
+            type="text"
+            value={nomeDaCategoria}
+            onChange={function funcaoHandler(infosDoEvento) {
+              setNomeDaCategoria(infosDoEvento.target.value);
+            }}
+          />
+        </label>
+        </div>
+        <div>
+        <label>
+          Cor:
+          <input
+            type="color"
+            value={nomeDaCategoria}
+            onChange={function funcaoHandler(infosDoEvento) {
+              setNomeDaCategoria(infosDoEvento.target.value);
+            }}
+          />
+        </label>
+
+        </div>
+        
 
         <button>
           Cadastrar
